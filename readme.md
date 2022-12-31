@@ -3,9 +3,7 @@
 - 💻 Web developer 
 - 🚀 I’m currently working with .NET CORE, SQL Server, Javascript, ReactJS and NodeJS
 
-</br>
-
-## 💻 **Technologies & Tools**
+# 💻 **Technologies & Tools**
 
 <p align="center">
 
@@ -30,14 +28,10 @@
 
 </p>
 
-</br>
-
 # 🚩 **My projects** 
 
 - [Scholae](https://github.com/flaviomanuel/scholae) ▶️ Platform for school community management 
 - [MovieRails](https://github.com/flaviomanuel/MovieRails) ▶️ Score your favorites movies
-
-<br>
 
 # 📚 **Statistics** 
 
